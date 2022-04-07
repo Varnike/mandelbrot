@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Racket.bmp</file>
+    </qresource>
+</RCC>
